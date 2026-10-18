@@ -12,7 +12,7 @@ Willkommen! Dieses Repository enthält alles, was du brauchst, um deinen eigenen
 ## Schritt 2: Unsere Dateien in den Server-Ordner kopieren
 Kopiere die folgenden Dateien aus diesem Repository direkt in deinen neu installierten DayZServer-Ordner:
 * `settings.cmd` (Hier stellst du Mods und Servernamen ein)
-* `Start.bat` (Das Startskript mit Map-Auswahl)
+* `ServerStart.bat` (Das Startskript mit Map-Auswahl)
 * `ServerWikiLogo.txt` (Unser Konsolen-Logo)
 * `Cherno_serverDZ.cfg` (Konfiguration für Chernarus)
 * `Enoch_serverDZ.cfg` (Konfiguration für Livonia/Enoch)
@@ -34,7 +34,7 @@ Wenn du Mods wie z.B. VPPAdminTools spielen möchtest:
 2. **Passwörter:** Öffne die Konfigurationsdatei der Map, die du spielen willst (z.B. `Cherno_serverDZ.cfg`), mit einem Texteditor. Hier kannst du ein Server-Passwort oder ein Admin-Passwort eintragen. Alles ist auf Deutsch kommentiert!
 
 ## Schritt 5: Den Server starten!
-1. Mache einen Doppelklick auf die Datei **`Start.bat`**. 
+1. Mache einen Doppelklick auf die Datei **`ServerStart.bat`**. 
 2. Es öffnet sich das ServerWiki.network Konsolenfenster.
 3. Du wirst nun gefragt, welche Map du starten möchtest. Drücke **C** für Chernarus, **E** für Enoch (Livonia) oder **S** für Sakhal.
 4. Dein Server fährt nun hoch. Das kann beim ersten Mal ein paar Minuten dauern. 
